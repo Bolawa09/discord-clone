@@ -1,4 +1,8 @@
 # MiniCord
+
+[![Run on Repl.it](https://repl.it/badge/github/ThalKod/discord-clone)](https://repl.it/github/ThalKod/discord-clone)
+
+
 <p align="center">
   <img width="150" height="100" src="https://github.com/ThalKod/discord-clone/blob/master/MiniCord.png"> </br>
   A "Discord clone" with Socket.io, Node.js &amp; MongoDB... 
